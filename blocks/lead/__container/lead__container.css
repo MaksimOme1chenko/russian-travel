@@ -1,0 +1,15 @@
+.lead__container {
+  max-width: 984px;
+  max-height: 615px;
+  margin: 64px auto 0px;
+}
+@media screen and (max-width: 1140px) {
+  .lead__container {
+    margin: 56px auto 0px;
+  }
+}
+@media screen and (max-width: 568px) {
+  .lead__container {
+    margin: 40px auto 0px;
+  }
+}
